@@ -1,4 +1,4 @@
 #!/bin/bash
 cd /home/ubuntu
-npm install -g pm2
+echo this is application start
 pm2 start server.js
